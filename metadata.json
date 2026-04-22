@@ -1,0 +1,6 @@
+{
+  "name": "Linkly - Minimal URL Shortener",
+  "description": "A clean, fast, and secure URL shortener MVP built with Node.js, Express, SQLite, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
