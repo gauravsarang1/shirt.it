@@ -1,6 +1,6 @@
 import db from '../db/index.js';
 import { nanoid } from 'nanoid';
-import { getCache, setCache } from '../../utils/redis.js';
+import { getCache, setCache } from '../utils/redis.js';
 
 export interface Url {
   id: number;
